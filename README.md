@@ -33,10 +33,13 @@ Vercel
 
 **Getting Started**
 To run this project locally:
+
+```bash
     git clone https://github.com/vivimvivim/vercel-landing-clone.git
     cd vercel-landing-clone
     npm install
     npm run dev
+    ``` 
 Visit http://localhost:3000 to view it live on your machine.
 
 **Contact**
