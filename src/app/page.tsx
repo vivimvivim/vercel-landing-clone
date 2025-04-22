@@ -9,13 +9,17 @@ export default function Home() {
       </p>
       <div className="flex flex-col sm:flex-row gap-4">
         <a
-          href="#"
+          href="https://github.com/vivimvivim/vercel-landing-clone"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-white text-black px-6 py-3 rounded-md font-medium hover:opacity-90 transition"
         >
           View Source Code
         </a>
         <a
-          href="#"
+          href="https://vercel.com/import"
+          target="_blank"
+          rel="noopener noreferrer"
           className="border border-white px-6 py-3 rounded-md font-medium hover:bg-white hover:text-black transition"
         >
           Deploy Your Own
