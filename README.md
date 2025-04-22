@@ -23,7 +23,7 @@ Vercel
 * Ready for production deployment
 
 **Preview**
-![Vercel-Inspired Hero](./images/preview.png)
+![Vercel-Inspired Hero](images/preview.png)
 
 **What I Learned**
 * Structuring scalable components in a Next.js app
